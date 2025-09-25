@@ -6,3 +6,5 @@ for i in range(N):
     a, b = b, a + b  
 
 print(f"O último número exibido foi: {a - b}")
+
+#
